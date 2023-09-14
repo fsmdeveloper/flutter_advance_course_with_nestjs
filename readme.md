@@ -4,7 +4,7 @@
 
 `GetX` is a state management solution for Flutter that provides a simple, yet powerful way to manage the state of your Flutter applications. It is known for its ease of use and efficiency. `GetX` leverages reactive programming principles to handle state changes, making it a popular choice among Flutter developers.
 
-**GetX Config Setup**
+**GetX Configuration Setup**
 
 - Necessary Initialization for the app
 
