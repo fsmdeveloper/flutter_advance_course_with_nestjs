@@ -30,7 +30,7 @@
 - ObxValue
 - Obx
 
-**Reactivity with Rx**:\*\*
+**Reactivity with Rx**:
 
 - Explore advanced state management techniques with `GetX` including `Rx`, `RxList`, `RxMap` and others data types.
 
