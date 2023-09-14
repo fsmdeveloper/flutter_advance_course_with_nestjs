@@ -38,8 +38,7 @@
 
 **Navigation:**
 
-- Implement basic navigation using `Get.to()` and `Get.off()`.
-- Learn about named routes and how to pass data between screens.
+- Implement navigation using `Get.to()`, `Get.off()` and others.
 
 **Dialogs and Snackbars:**
 
