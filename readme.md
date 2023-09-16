@@ -55,4 +55,4 @@
 
 **Get Connect:**
 
-- Rest API with build-int GetConnect system
+- Rest API with built-in GetConnect system
