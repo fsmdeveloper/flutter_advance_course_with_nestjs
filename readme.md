@@ -11,14 +11,19 @@
 **Dependency Management & injection**
 
 - Get.put()
+
 - Get.lazyPut()
+
 - Get.find()
 
 **GetX Controller Lifecycle**
 
 - onInit()
+
 - onReady()
+
 - onClose()
+
 - Manual Disposal
 
 **GetX Bindings**
@@ -28,8 +33,11 @@
 **Reactive UI - Widgets for UI Updates**
 
 - GetBuilder
+
 - ValueBuilder
+
 - ObxValue
+
 - Obx
 
 **Reactivity with Rx**:
@@ -48,11 +56,28 @@
 
 - Implement internationalization and localization using GetX's built-in features.
 
-**Persistence Data:**
+**Persistence Data with Get Storage:**
 
 - Implement data persistence using built in Get Storage
+
 - Learn how to save and retrieve data between app sessions.
 
 **Get Connect:**
 
-- Rest API with built-in GetConnect system
+- Rest API with build-int GetConnect system
+
+## Persistence Data (Chapter 2)
+
+**Local Storage:**
+
+- [Hive](https://docs.hivedb.dev/#)
+- [Isar Database](https://isar.dev)
+
+**File System/Storage:**
+
+- Read and Write Files
+
+## Deep link & Push Notification (Chapter 3)
+
+- Deep Linking System
+- Onesignal (FCM)
